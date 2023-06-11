@@ -1,0 +1,30 @@
+// Exercise 1: Calculate the Sum of Two Numbers
+
+	//Variable called sum = num1 + num2
+	//num1 = user input or predefined number
+	//num2 = user input or predefined number
+	//PRINT sum variable
+
+// Exercise 2: Check if a Number is Even or Odd
+
+	//num = user INPUT or predetermined number
+	//IF (num MOD 2) == 0
+		//PRINT number is even
+	//ELSE
+		//PRINT number is odd
+	
+// Exercise 3: Write psuedo code that will perform the following.
+
+a) Read in 5 separate numbers.
+b) Calculate the average of the five numbers.
+c) Find the smallest (minimum) and largest (maximum) of the five entered numbers.
+d) Write out the results found from steps b and c with a message describing what they are
+
+	//have user INPUT 5 numbers
+	//add numbers together and divide by 5 and set to variable named averageNum
+	//find the MIN() and MAX() of the 5 numbers entered by the user and set to variable named minNumber and maxNumber
+	//PRINT variable averageNum + ": This is the average of your five numbers."
+	//PRINT variable minNumber + ": This is the smallest number you entered."
+	//PRINT variable maxNumber + ": This is the biggest number you entered."
+
+-- END --
